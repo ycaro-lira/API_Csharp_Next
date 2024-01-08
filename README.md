@@ -63,3 +63,5 @@ O projeto está organizado em duas partes principais:
    - Navegue até o diretório `Front-end/Api-turismo`.
    - Execute `npm install` para instalar as dependências.
    - Execute `npm run dev` para iniciar o servidor de desenvolvimento do Next.js.
+## Vídeo de apresentação do projeto:
+https://www.linkedin.com/feed/update/urn:li:activity:7150201495563427841/
